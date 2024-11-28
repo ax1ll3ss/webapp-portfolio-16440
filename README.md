@@ -1,1 +1,1 @@
-# webapp-portfolio-16440
+This application was developed for Web Application module, as coursework portfolio project @ WIUT by student ID: 16440.
